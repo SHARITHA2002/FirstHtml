@@ -1,2 +1,2 @@
 # vigilant-octo-journey
-It contain my practise code
+It contain my practice code
